@@ -1,0 +1,1 @@
+Created one entity class for managing the data 
